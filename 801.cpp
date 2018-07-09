@@ -5,7 +5,7 @@ int main(){
 	int i=0,j=0,a=0;
 	
 	while(1){
-	printf("¿é¤J¤T¨¤§Î§Îª¬¥N¸¹:");
+	printf("è¼¸å…¥ä¸‰è§’å½¢å½¢ç‹€ä»£è™Ÿ:");
 	scanf("%d",&a);
 	
 	switch(a){
